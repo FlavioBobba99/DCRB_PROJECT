@@ -1,0 +1,2 @@
+I was also able to index the whole filesystem.
+In this dir you can find some search result snippets and the full filesys tree. This should demonstrate that the program is capable of handling any dir nesting level
